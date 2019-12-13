@@ -1,0 +1,3 @@
+id, First Name, Middle Name, Last Name, Email, Password
+1,anna,anna,anna,anna,anna
+2,Alvin,alvin,alvin,alvin,alvin
